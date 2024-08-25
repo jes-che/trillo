@@ -287,11 +287,7 @@ body {
     padding: 1.25rem 2rem;
   }
 }
-.overview__stars {
-  margin-right: auto;
-  display: flex;
-}
-.overview__icon-star, .overview__icon-location {
+.overview__icon-location {
   width: 1.75rem;
   height: 1.75rem;
   fill: var(--color-primary);
@@ -300,6 +296,7 @@ body {
   font-size: 1.2rem;
   display: flex;
   align-items: center;
+  margin-left: auto;
 }
 .overview__icon-location {
   margin-right: 0.5rem;
