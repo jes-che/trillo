@@ -431,7 +431,7 @@ body {
   border: 1px solid #fff;
 }
 .recommendation__photo:not(:last-child) {
-  margin-right: -1rem;
+  margin-right: -2rem;
 }
 .recommendation__count {
   margin-left: 1rem;
